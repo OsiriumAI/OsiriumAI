@@ -26,7 +26,7 @@
   Building tools that enable AI agents to interact with decentralized systems seamlessly — starting with Ethereum.
 
 - 🛠️ **Current Project**:  
-  [**MCP Trading Agent**](https://github.com/Osirium_Labs/mcpsol) — A Model Context Protocol (MCP) server connecting Claude AI with the Ethereum blockchain for real-time blockchain operations, wallet management, token creation, NFT minting, and decentralized trading.
+  [**MCP Trading Agent**](https://github.com/OsiriumAI) — A Model Context Protocol (MCP) server connecting Claude AI with the Ethereum blockchain for real-time blockchain operations, wallet management, token creation, NFT minting, and decentralized trading.
 
 - 🔥 **What We Believe In**:  
   - Open-source innovation 🤝  
@@ -35,7 +35,11 @@
 
 ---
 # Token Trading Demo<div align="center">
-https://github.com/user-attachments/assets/14b36e6e-390d-457a-a735-963071985c0e
+
+
+
+https://github.com/user-attachments/assets/62ffc7d6-5582-4c9d-a151-eaccbec86cfd
+
 
 
 # 🌟 Explore Our Work
