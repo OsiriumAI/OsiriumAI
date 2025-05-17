@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f97e60&height=200&section=header&text=Osirium_Labs&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Osirium_Labs Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Osirium_Labs&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Osirium_Labs Banner"/>
 </p>
 
 <p align="center">
