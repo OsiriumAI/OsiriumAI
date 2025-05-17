@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <b> Empowering AI Agents on the Solana Blockchain via Claude Desktop </b>
+  <b> Empowering AI Agents on the Ethereum Blockchain via Claude Desktop </b>
 </p>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/Osirium_Labs">
-    <img src="https://img.shields.io/badge/Blockchain-Solana-14f195?style=for-the-badge&logo=solana&logoColor=white" alt="Solana Badge"/>
+    <img src="https://img.shields.io/badge/Blockchain-Ethereum-14f195?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum Badge"/>
     <img src="https://img.shields.io/badge/AI-Model%20Context%20Protocol-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="MCP Badge"/>
     <img src="https://img.shields.io/badge/License-ISC-9cf?style=for-the-badge" alt="License Badge"/>
   </a>
@@ -23,10 +23,10 @@
 **Osirium_Labs** is dedicated to bridging the power of **Artificial Intelligence** with the revolutionary capabilities of **Blockchain technology**.
 
 - 🌐 **Focus**:  
-  Building tools that enable AI agents to interact with decentralized systems seamlessly — starting with Solana.
+  Building tools that enable AI agents to interact with decentralized systems seamlessly — starting with Ethereum.
 
 - 🛠️ **Current Project**:  
-  [**MCP Trading Agent**](https://github.com/Osirium_Labs/mcpsol) — A Model Context Protocol (MCP) server connecting Claude AI with the Solana blockchain for real-time blockchain operations, wallet management, token creation, NFT minting, and decentralized trading.
+  [**MCP Trading Agent**](https://github.com/Osirium_Labs/mcpsol) — A Model Context Protocol (MCP) server connecting Claude AI with the Ethereum blockchain for real-time blockchain operations, wallet management, token creation, NFT minting, and decentralized trading.
 
 - 🔥 **What We Believe In**:  
   - Open-source innovation 🤝  
