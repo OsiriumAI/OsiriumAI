@@ -34,7 +34,7 @@
   - Empowering AI to shape the future of decentralized finance 🌍  
 
 ---
-# SPL Token Trading Demo<div align="center">
+# Token Trading Demo<div align="center">
 https://github.com/user-attachments/assets/14b36e6e-390d-457a-a735-963071985c0e
 
 
